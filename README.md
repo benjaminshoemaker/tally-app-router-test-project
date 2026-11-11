@@ -1,3 +1,10 @@
+# tally-app-router-test-project
+
+Next.js App Router test fixture. This is an integration test app, not a
+standalone product.
+
+Used with [Tally Analytics](https://github.com/benjaminshoemaker/tally_analytics).
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
